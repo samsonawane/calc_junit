@@ -11,7 +11,12 @@
     <description>Simple jUnit test example</description>
     <url>http://stokito.blogspot.com/2013/02/blog-post_27.html</url>
     <inceptionYear>2013</inceptionYear>
-
+<properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+</properties>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
