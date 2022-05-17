@@ -5,3 +5,7 @@ This project is demo for article for beginners about unit testing http://stokito
 
 You should use Maven to build project.
 Also I would like to recommend you edit code Intellij Idea.
+
+
+
+
